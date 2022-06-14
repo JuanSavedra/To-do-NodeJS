@@ -1,6 +1,6 @@
 # rocketseat-nodejs-challenge-01
 
-# Desafio 01 de NodeJS do Ignite da Rocketseat.
+# Desafio 01 de NodeJS do Ignite da Rocketseat. * (Não contém Front-end) *
 
 ## Nesse desafio, crio uma aplicação para treinar o que aprendi até agora no Node.js!
 
